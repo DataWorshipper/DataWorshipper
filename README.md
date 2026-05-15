@@ -58,8 +58,7 @@ Currently focused on:
 
 ### GitHub Stats
 
-![Abhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataWorshipper&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DataWorshipper&layout=compact&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=DataWorshipper&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ---
 
